@@ -1,0 +1,68 @@
+.tex{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    font: bold;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+}
+
+.pm{
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 10px solid rgb(251, 255, 0);
+}
+
+.itex{
+    font-size: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.fbg{
+    background-color: rgba(188, 188, 188, 0.75);
+    max-width: 600px;
+    min-width: 400px;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    border-color: rgb(86, 86, 86);
+    border:5px solid rgb(29, 29, 29) ;
+}
+
+.d{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.ta{
+   text-align: center;
+   margin: 0 auto; 
+}
+
+.final{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+.body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ci{
+    border: 5px solid #555;
+    opacity: 0.7;
+}
+
+.ci:hover{
+    opacity: 1;
+    cursor: pointer;
+}

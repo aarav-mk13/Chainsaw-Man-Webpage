@@ -1,0 +1,31 @@
+.body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.itex{
+    font-size: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.tex{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    font: bold;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+    padding-top: 10px; 
+}
+
+.pm{
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 10px solid rgb(251, 255, 0);
+}
